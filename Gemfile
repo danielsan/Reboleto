@@ -22,7 +22,7 @@ group :development, :test do
   gem 'haml-rails', '>= 0.3.4'
   gem 'rspec-rails', '>= 2.9.0.rc2'
   gem 'simplecov'
-  gem 'heroku'
+  gem 'heroku', '>= 3.99.4'
   gem 'guard', '>= 0.6.2'
   gem 'rb-fsevent'
   gem 'growl'
