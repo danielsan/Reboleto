@@ -11,7 +11,7 @@ end
 
 gem 'active_attr'
 
-gem 'jquery-rails'
+gem 'jquery-rails', '>= 3.1.3'
 gem 'less'
 
 gem 'bson_ext', '>= 1.6.2'
