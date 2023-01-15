@@ -14,7 +14,7 @@ gem 'active_attr'
 gem 'jquery-rails'
 gem 'less'
 
-gem 'bson_ext', '>= 1.6.2'
+gem 'bson_ext', '>= 1.12.0'
 gem 'mongoid', '>= 2.4.9'
 gem 'haml', '>= 3.1.4'
 
