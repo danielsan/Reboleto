@@ -15,7 +15,7 @@ gem 'jquery-rails'
 gem 'less'
 
 gem 'bson_ext', '>= 1.6.2'
-gem 'mongoid', '>= 2.4.9'
+gem 'mongoid', '>= 7.6.1'
 gem 'haml', '>= 3.1.4'
 
 group :development, :test do
